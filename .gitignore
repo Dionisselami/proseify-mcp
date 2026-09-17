@@ -1,0 +1,4 @@
+# don't ship agent stubs or OS noise
+.DS_Store
+node_modules/
+*.tmp
