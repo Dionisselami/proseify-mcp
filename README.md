@@ -138,4 +138,4 @@ public domain (mostly Project Gutenberg-sourced).
 - **Agent SDK (filled-in config for your key):** https://proseify.xyz/agent
 - **Terms** · **Privacy** · **Refund policy** — footer of every page on the site
 - **Support:** support@proseify.xyz
-- **Published in the official MCP registry:** `io.github.dionisselami/proseify-mcp`
+- **Published in the official MCP registry:** `io.github.Dionisselami/proseify-mcp`

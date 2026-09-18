@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.dionisselami/proseify-mcp",
+  "name": "io.github.Dionisselami/proseify-mcp",
   "title": "Proseify",
-  "description": "MCP server that writes complete books: 81 public-domain classics, per-genre recipes, chapter pipelines.",
+  "description": "MCP book-writing server: 81 classics, genre recipes, drafting pipelines.",
   "version": "1.0.0",
   "websiteUrl": "https://proseify.xyz/",
   "repository": {
