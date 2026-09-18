@@ -31,7 +31,7 @@ that reads like the gothic tradition and a horror book that reads like ChatGPT.
 
 | Tool | What it does |
 |------|--------------|
-| `list_genres` | 11 genres across 81 books (theatre, horror, romance, adventure, literary, and more) |
+| `list_genres` | 11 genres, growing library of books (theatre, horror, romance, adventure, literary, and more) |
 | `search_corpus` | Full-text search across all chapters, with FTS5 syntax (quotes, AND/OR/NOT, wildcards) |
 | `get_genre_recipe` | Pacing beats, dialogue ratio, and stylistic anchors derived from the tradition |
 | `get_style_references` | Model passages from books matching a genre — the register you're aiming for |
@@ -89,7 +89,7 @@ drafts, scores, and revises. You edit what it returns.
 
 ## The corpus
 
-**81 books / 11 genres**, drawn from Project Gutenberg and similar
+**a growing library of books / 11 genres**, drawn from Project Gutenberg and similar
 public-domain collections — all verified against their original headers, so
 there is no copyright ambiguity anywhere in the library. Commercial use of
 output built on it is safe.
