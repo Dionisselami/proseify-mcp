@@ -1,0 +1,10 @@
+{
+  "name": "anti-prose-slop",
+  "version": "1.0.0",
+  "description": "Proseify book-writing skill for AI coding agents",
+  "included": [
+    "SKILL.md"
+  ],
+  "designAuthority": "proseify",
+  "evidenceMode": "concrete-need-only"
+}
