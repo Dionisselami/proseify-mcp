@@ -10,6 +10,8 @@ Give it a one-line premise. It picks the right genre recipe, pulls model passage
 
 **🔗 Website & key issuance:** https://proseify.xyz
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/dionisselami/proseify-mcp)
+
 ---
 
 ## Why genre-before-prose matters
