@@ -10,7 +10,7 @@ Give it a one-line premise. It picks the right genre recipe, pulls model passage
 
 **🔗 Website & key issuance:** https://proseify.xyz
 
-[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/dionisselami/proseify-mcp)
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/dionisselami/proseify-mcp) [![M8ven Score](https://m8ven.ai/badge/mcp/dionisselami/proseify-mcp)](https://m8ven.ai/mcp/dionisselami-proseify-mcp-1eqk6e)
 
 ---
 
